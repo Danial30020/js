@@ -4,33 +4,26 @@ h1{
 }
 p{
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-margin-left: 430px;
-margin-top: 34px;
+text-align: center;
 }
 input{
     padding: 10px;
-    margin-top:  30px; ;
-   margin-left: 360px;
    color: black;
    padding: 17px;
-   margin: 10px auto;
+   margin: 2% 60% 2% 40%;
    border: rgb(0, 0, 0) 1px solid;
    border-radius: 5px;
-   
+   width: 15%;
    display: block;
 }
 button{
 border-radius: 12px;
 border: 4px;
-width: 340px;
+width: 15%;
 height: 30px;
-margin-left: 450px;
-margin-top: 15px;
-margin-bottom: 30px;
+margin: 0 60% 0 40%;
 }
-div{
 
-}
 #ht{
 text-align:left;
 
